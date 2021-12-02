@@ -1,0 +1,77 @@
+  h1{
+    color:aqua;
+    font-size: 40px;
+    font-family: Helvertica, sans-serif;
+    text-align: left;
+}
+
+h2{
+    color: cornflowerblue;
+    font-family: fantasy, serif;
+    text-allign: center;
+    font-style: italic;
+}
+
+h3{
+    font-family: Comic Sans, Comic Sans;
+    font-size: 20px;
+    font-style: italic; 
+    color: cornflowerblue;
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #3A01DF;
+    
+}
+
+p{
+    font-weight: 800;
+    text-decoration: none;
+}
+
+th{
+    font-weight: 800;
+    background-color: #3A01DF;
+    color: #ffffff;
+}
+
+table{
+    font-family: Helverica, sans-serif;
+    border-collapse: Collapse;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #2695A6;
+    
+th{
+      font-weight: 800;
+      background-color: aqua;
+      color: #ffffff;
+    }
+tr.alt td{
+    background-color: blueviolet; 
+}
+
+ul{
+    list-style-type: circle;
+}
+    
+ol{
+    list-style-type: lower-greek;
+ }
+    
+    #menu-bar a{
+        font-family: Helvertica, sans-serif;
+        text-decoration: none;
+        backround-color: cornflower;
+        padding: 5px;
+    }
+    
+#menu-bar a:hover{
+        background-color: blueviolet;
+        color: white;
+} 
+    
